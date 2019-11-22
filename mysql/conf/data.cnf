@@ -3,4 +3,4 @@ datadir=/var/lib/mysql_data
 wait_timeout=36000
 max_allowed_packet=33554432
 innodb_lru_scan_depth=256
-optimizer_search_depth = 0
+optimizer_search_depth=0

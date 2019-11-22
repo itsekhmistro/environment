@@ -6,7 +6,7 @@ default: up
 
 # ORO_APP ?= /Users/itsekhmistro/data/www/oro.m1/orodev/application
 # SYMFONY_ENV ?= prod
-export ORO_APP=/Users/itsekhmistro/data/www/oro.m1/orodev/application
+export ORO_APP=/Users/itsekhmistro/data/www/oro.m1/orodev/application/oroapp
 export SYMFONY_ENV=prod
 
 up:

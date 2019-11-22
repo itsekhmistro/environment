@@ -9,6 +9,6 @@ services:
   nginx1.11:
     image: oroinc/nginx:1.11-alpine
     ports:
-      - "80"
+      - 8180:80
     environment:
       - SYMFONY_ENV
